@@ -17,6 +17,11 @@ const Navbar = ({ icon, title }) => {
           <li>
             <Link to="/about">About</Link>
           </li>
+          <li>
+            <a href="https://drive.google.com/open?id=1wbut5RD9fGkCsSDMDdt53-NJAEvfS7jV">
+              Download App
+            </a>
+          </li>
         </ul>
       </nav>
     </div>
